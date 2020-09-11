@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_top_padding_on_transparent_actions_bar_activity">25dp</dimen>
+    <dimen name="semi_fab_margin">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="double_fab_margin">32dp</dimen>
+    <dimen name="image_submission_result_size">150dp</dimen>
+    <dimen name="dialog_min_width">350dp</dimen>
+</resources>

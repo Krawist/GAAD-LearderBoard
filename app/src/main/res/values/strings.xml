@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GAAD Leaderboard</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submission_successfull">Submission Successfull</string>
+    <string name="submission_not_successfull">Submission Not Successfull</string>
+    <string name="yes">Yes</string>
+    <string name="erreur">Erreur</string>
+</resources>
